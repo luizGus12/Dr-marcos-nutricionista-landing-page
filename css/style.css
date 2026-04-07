@@ -36,8 +36,9 @@ header{
 
 .right-position{
     display: flex;
-    justify-content: center;
+    justify-content: end;
     width: 50%;
+    
     
     
     
@@ -50,6 +51,7 @@ header{
     margin-right: 3px;
     cursor: pointer;
     transition: 0.3s ease;
+    
     
 } 
 .right-position i:hover{
